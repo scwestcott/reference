@@ -24,3 +24,4 @@ $ git log // See a record of our commit.
 ## Further Reading
 1. [Learning Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial)
 1. [Git Commit Style Guide](http://chris.beams.io/posts/git-commit/)
+1. [GitHub Git Tutorial](https://guides.github.com/activities/hello-world/)
